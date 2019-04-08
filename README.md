@@ -1,4 +1,4 @@
-# string-tag**
+# string-tag
 
 **A tiny tool to create string tags.**
 
