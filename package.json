@@ -1,6 +1,6 @@
 {
   "name": "string-tag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny tool to create string tags.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -17,7 +17,7 @@
     "template"
   ],
   "author": "Ayon Lee <i@hyurl.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/hyurl/string-tag/issues"
   },
