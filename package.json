@@ -1,6 +1,6 @@
 {
   "name": "string-tag",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tiny tool to create string tags.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/hyurl/string-tag#readme",
   "devDependencies": {
-    "mocha": "^6.1.1"
+    "mocha": "^6.1.4"
   }
 }
